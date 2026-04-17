@@ -10,7 +10,7 @@ The goal of this project was to recreate the iconic Mario pyramids using ASCII a
 
 ## Algorithmic Thinking
 To build the pyramid, I followed this logic:
-1. Get a positive integer `h` from the user.
+1. Get a positive integer `n` from the user.
 2. Loop through each row from `1` to `n`.
 3. In each row:
     - Print `n - row_number` spaces.
